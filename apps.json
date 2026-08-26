@@ -9,6 +9,13 @@
       "localizedDescription": "מתייג הוצאות מיד אחרי התשלום. עסק שכבר תויג מתויג אוטומטית מכאן והלאה.",
       "versions": [
         {
+          "version": "1.0.9",
+          "date": "2026-08-26T12:09:33Z",
+          "downloadURL": "https://github.com/shaylevin89/spend_labeler_releases/releases/download/v1.0.9/spendlabeler.ipa",
+          "size": 13788858,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.0.8",
           "date": "2026-08-25T10:59:01Z",
           "downloadURL": "https://github.com/shaylevin89/spend_labeler_releases/releases/download/v1.0.8/spendlabeler.ipa",
@@ -34,13 +41,6 @@
           "date": "2026-08-22T15:06:56Z",
           "downloadURL": "https://github.com/shaylevin89/spend_labeler_releases/releases/download/v1.0.5/spendlabeler.ipa",
           "size": 13739858,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "1.0.4",
-          "date": "2026-08-22T13:56:12Z",
-          "downloadURL": "https://github.com/shaylevin89/spend_labeler_releases/releases/download/v1.0.4/spendlabeler.ipa",
-          "size": 13704956,
           "minOSVersion": "17.0"
         }
       ]
