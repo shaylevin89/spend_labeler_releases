@@ -7,6 +7,7 @@
       "bundleIdentifier": "com.spendlabeler.app",
       "developerName": "Shay Levin",
       "localizedDescription": "מתייג הוצאות מיד אחרי התשלום. עסק שכבר תויג מתויג אוטומטית מכאן והלאה.",
+      "iconURL": "https://raw.githubusercontent.com/shaylevin89/spend_labeler_releases/main/icon.png",
       "versions": [
         {
           "version": "1.0.9",
